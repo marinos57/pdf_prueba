@@ -1,5 +1,5 @@
 {
-  "name": "demo-app",
+  "name": "pdf_prueba",
   "version": "1.0.0",
   "description": "Aplicacion MVC demo",
   "main": "index.js",
@@ -31,7 +31,7 @@
     "datatables.net-bs5": "^1.12.1",
     "fullcalendar": "^5.11.3",
     "jquery": "^3.6.1",
-    "leaflet": "^1.9.2",
+    "leaflet": "^1.9.4",
     "sweetalert2": "^11.4.38"
   }
 }
